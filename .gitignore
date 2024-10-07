@@ -1,0 +1,4 @@
+wordpress/app
+db
+config/certs
+!config/certs/_.txt
